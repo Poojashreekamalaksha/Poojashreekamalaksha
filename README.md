@@ -30,7 +30,7 @@
   - [LinkedIn](https://www.linkedin.com/in/poojashreek)  
   - [Email](mailto:poojakamalaksha98@gmail.com)  
 - 📄 **Resume:**  
-  [Download Resume (PDF)](https://github.com/Poojashreekamalaksha/Resume/raw/main/PoojashreeK_SoftwareQualityEngineer_Resume.pdf)  
+  [Download Resume (PDF)](https://github.com/Poojashreekamalaksha/Resume/raw/main/PoojashreeK_SoftwareQualityEngineer_Resume.pdf)
 - ⚡ **Fun Fact:** Hunting bugs before they hunt you!  
 
 ---
